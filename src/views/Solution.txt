@@ -1,0 +1,2 @@
+1-Çoğunu anladım ama v-bind:to="profileLink" 'i yapamıyorum.
+2-v-bind:to="profileLink" ->yaptım ama prop:data istiyor onunla uğraşıcam.
